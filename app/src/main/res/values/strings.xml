@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Calculator Tool</string>
+    <string name="hint_num1">Nhập số thứ nhất</string>
+    <string name="hint_num2">Nhập số thứ hai</string>
+    <string name="op_add">Cộng (+)</string>
+    <string name="op_sub">Trừ (-)</string>
+    <string name="op_mul">Nhân (*)</string>
+    <string name="op_div">Chia (/)</string>
+    <string name="btn_calculate">TÍNH KẾT QUẢ</string>
+    <string name="err_empty_input">Vui lòng nhập đủ 2 số hợp lệ!</string>
+    <string name="err_div_zero">Lỗi: Không thể chia cho 0!</string>
+</resources>
